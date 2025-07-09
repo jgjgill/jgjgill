@@ -7,7 +7,7 @@
 
 <div align="center">
 
-  ![Welcome to My Profile](https://profile-readme.onrender.com/api/wave-banner?title=Welcome+to+My+Profile&subtitle=Go+High&theme=dark)
+  ![Welcome to My Profile](https://www.profile-readme.store/api/wave-banner?title=Welcome+to+My+Profile&subtitle=Go+High&theme=dark)
 
 </div>
 
@@ -17,7 +17,7 @@
 
 <div align="center">
 
-  ![jgjgill](https://profile-readme.onrender.com/api/neon-sign?text=jgjgill&subtitle=Frontend+Developer&theme=cyberpunk&animation=flicker)
+  ![jgjgill](https://www.profile-readme.store/api/neon-sign?text=jgjgill&subtitle=Frontend+Developer&theme=cyberpunk&animation=flicker)
 
 </div>
 
